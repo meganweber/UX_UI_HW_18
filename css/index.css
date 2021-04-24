@@ -104,6 +104,14 @@ html {
 	border: 2px solid black;
 }
 
+.skills{
+	padding: 50px;
+	height: 100%;
+	text-align: center;
+	color: black;
+	display: block;
+}
+
 .footer{
 	background-color: black;
 	width: 100%;
@@ -126,9 +134,3 @@ html {
 	color: white;
 }
 
-.skills{
-	padding: 50px;
-	height: 100%;
-	text-align: center;
-	color: black;
-}
